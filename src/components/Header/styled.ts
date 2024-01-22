@@ -10,6 +10,7 @@ export const HeaderContent = styled.div`
   max-width: 1120px;
   margin: 0 auto;
   padding: 0 1.5rem;
+  box-sizing: content-box;
 
   display: flex;
   justify-content: space-between;
