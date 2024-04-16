@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 100,
       "createdAt": "2024-04-12T19:36:44.505Z"
+    },
+    {
+      "description": "Dev Site 2",
+      "category": "Dev",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2024-04-16T20:04:14.876Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "category": "Food",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-04-16T20:21:55.280Z",
+      "id": 4
+    },
+    {
+      "description": "Coffee",
+      "category": "Food",
+      "price": 6,
+      "type": "outcome",
+      "createdAt": "2024-04-16T20:38:34.741Z",
+      "id": 5
     }
   ]
 }
